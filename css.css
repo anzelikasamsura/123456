@@ -3,8 +3,10 @@ h1 {
 }
 h2 {
     color:darkorange;
-
+    text-align: center;
 }
-.htmlContainer{
-    background-color: darkgoldenrod;
+p {
+    color:mediumseagreen;
+    text-align: center;
+    background-color: cyan;
 }
