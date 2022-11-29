@@ -1,12 +1,19 @@
 h1 {
-    color:blue;
+    color:rgb(98, 0, 255);
 }
 h2 {
-    color:darkorange;
+    color:rgb(242, 255, 0);
     text-align: center;
 }
 p {
-    color:mediumseagreen;
+    color:rgb(2, 4, 92);
     text-align: center;
-    background-color: cyan;
+    background-color: rgb(189, 255, 255);
 }
+html {
+    background-image: url(https://izvestia.kharkov.ua/wp-content/uploads/2022/04/0df592402d7490efe18b43074751a1f5-quality_75xresize_crop_1xallow_enlarge_0xw_790xh_445-1110x625.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
