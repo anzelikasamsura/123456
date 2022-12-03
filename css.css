@@ -1,19 +1,55 @@
-h1 {
-    color:rgb(98, 0, 255);
-}
-h2 {
-    color:rgb(242, 255, 0);
+h1 { color:rgb(172, 113, 232);
     text-align: center;
-}
-p {
-    color:rgb(2, 4, 92);
+    font-family:'Old Soviet', cursive; letter-spacing: 2px; }
+
+.znaki{ color:rgb(135, 23, 176);
+    background: gray;
     text-align: center;
-    background-color: rgb(189, 255, 255);
-}
+    background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;
+    letter-spacing: 2px; font-family: 'Old Soviet', cursive; }
+
+p{ letter-spacing: 2px; font-family: 'Old Soviet', cursive; }
+
+.kr{ text-align: center; }
+.kr2{ text-align: center; }
+.gif{ text-align: center; }
+
+.pon { color:rgb(191, 68, 117);
+    text-align: center;
+    
+    background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;
+    letter-spacing: 2px; font-family: 'Old Soviet', cursive; }
+
+.zroz { color:rgb(93, 142, 202);
+    text-align: center;
+    background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;
+    letter-spacing: 2px; font-family: 'Old Soviet', cursive; }
+
 html {
-    background-image: url(https://izvestia.kharkov.ua/wp-content/uploads/2022/04/0df592402d7490efe18b43074751a1f5-quality_75xresize_crop_1xallow_enlarge_0xw_790xh_445-1110x625.jpg);
+    background-image: url(https://abrakadabra.fun/uploads/posts/2021-12/1640899017_6-abrakadabra-fun-p-kosmos-na-belom-fone-13.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
-    background-size: cover;
-  }
+    background-size: cover; }
+
+ul { list-style: none;
+    margin: 0;
+    padding-left: 20px;
+    display: inline;
+    display: flex;
+    background-image: url(https://gamerwall.pro/uploads/posts/2022-03/1646376116_21-gamerwall-pro-p-kosmos-belogo-tsveta-krasivie-oboi-24.png);
+    background-repeat: no-repeat; background-attachment: fixed; background-size: cover;
+}
+
+a { text-decoration: none; 
+    font-family: 'Old Soviet', cursive; 
+    margin-right: 10px;
+    color:rgb(55, 8, 87); }
+
+.podval{
+    color:rgb(179, 83, 83);
+    background-image: url(https://thumbs.dreamstime.com/b/%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B-%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-ufo-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8B-%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B0-%D0%B1%D0%B5%D0%B7%D1%88%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B-doodle-%D1%87%D0%B5%D1%80%D0%BD%D0%BE-%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5-153098017.jpg);
+    background-repeat: no-repeat; background-position: center center; background-attachment: fixed; background-size: cover;
+    letter-spacing: 2px; font-family: 'Old Soviet', cursive;
+    padding: 10px;
+}
